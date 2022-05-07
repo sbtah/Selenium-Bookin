@@ -9,11 +9,11 @@ This actually caused an issue for me (Couldn't load profile). I had to remove sn
 
 
 Currently this BOT can:
--Request a Booking.com page.
--Change currency via implemented method : change_currency()
--Filter destination with : filter_destination()
--Pick date of booking from - to: pick_stay_date()
--Pick number of adults: send_adult_info()
--Pick number of childrens with their ages: send_children_info()
--Pick number of rooms: pick_number_of_rooms()
+-Request a Booking.com page,
+-Change currency via implemented method : change_currency(),
+-Filter destination with : filter_destination(),
+-Pick date of booking from - to: pick_stay_date(),
+-Pick number of adults: send_adult_info(),
+-Pick number of childrens with their ages: send_children_info(),
+-Pick number of rooms: pick_number_of_rooms().
 
